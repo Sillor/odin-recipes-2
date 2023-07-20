@@ -1,3 +1,18 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 img {
     width: 512px;
+}
+
+.recipe-card {
+    width: 512px;
+    background-color: rgb(234, 234, 234);
+}
+
+h1.title,
+a.go-back,
+h2 {
+    text-align: center;
 }
