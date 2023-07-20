@@ -2,13 +2,44 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+body {
+    background-color: rgb(234, 234, 234);
+}
+
+.home-title {
+    text-align: center;
+}
+
+.home-image {
+    width: 640px;
+}
+
+div.home-container {
+    width: 640px;
+    margin: 0 auto;
+    padding-bottom: 32px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+    background-color: white;
+}
+
 img {
     width: 512px;
 }
 
-.recipe-card {
+.recipe-list {
+    width: 491.49px;
+    margin: 32px auto 0 auto;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin: 0 12px;
+}
+
+div.recipe-card {
     width: 512px;
-    background-color: rgb(234, 234, 234);
+    background-color: white;
 }
 
 h1.title,
