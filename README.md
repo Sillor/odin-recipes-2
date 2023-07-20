@@ -6,3 +6,4 @@ This is the first project from the [Odin Project curriculum](https://www.theodin
 - [Stuffed Shells](https://www.allrecipes.com/recipe/21532/stuffed-shells-iii/)
 - [Alcohol-Free Mojitos](https://www.allrecipes.com/recipe/215613/alcohol-free-mojitos/)
 - [Nutella Cookies](https://www.allrecipes.com/recipe/273912/nutella-cookies/)
+- [Chef image](https://yti.edu/blog/Common-Skills-Needed-to-be-a-Chef)
